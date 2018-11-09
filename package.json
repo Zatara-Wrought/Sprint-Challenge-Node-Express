@@ -1,0 +1,31 @@
+{
+  "name": "sprint-challenge-node-express",
+  "version": "1.0.0",
+  "description": "## Assignments",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "daemon": "^1.1.0",
+    "express": "^4.16.4",
+    "init": "^0.1.2",
+    "knex": "^0.15.2",
+    "morgan": "^1.9.1",
+    "sqlite3": "^4.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  },
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zatara-Wrought/Sprint-Challenge-Node-Express.git"
+  },
+  "author": "Samuel Partner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zatara-Wrought/Sprint-Challenge-Node-Express/issues"
+  },
+  "homepage": "https://github.com/Zatara-Wrought/Sprint-Challenge-Node-Express#readme"
+}
